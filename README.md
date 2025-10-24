@@ -52,6 +52,6 @@ Ensure you have:
 ```bash
 g++ -o slot_game main.cpp
 
-### Run the code
+Run the code
 ./slot_game
 
